@@ -1,2 +1,2 @@
 function f() 
-    return 3
+    return 20
